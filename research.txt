@@ -1,0 +1,23 @@
+Name: Georgina Yustisio
+Destination: https://www.jellycat.com/us/
+Usage: I use this website to check any new releases that I might want to add to my collection.
+
+IP Address: 104.26.7.61
+Destination: San Fransisco
+Fun Fact: Fortune cookies were invented in San Fransisco's Chinatown in the early 20th century.
+
+IP Address: 71.190.177.1
+Destination: New York
+Fun Fact: There are estimated to be more rats than humans in New York City. 
+
+IP Address: 100.41.0.152
+Destination: New York
+Fun Fact: The Statue of Liberty's right foot is raised, signifying forward movement and freedom.
+
+IP Address: 172.70.108.2
+Destination: New Jersey
+Fun Fact: Frank Sinatra was born in Hoboken, New Jersey.
+
+IP Address: 104.26.7.61
+Destination: San Fransisco
+Fun Fact: Ghirardelli, one of America's oldest chocolate companies, was founded in San Francisco in 1852.
