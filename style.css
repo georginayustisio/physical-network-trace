@@ -1,0 +1,164 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 1440px;
+    height: 1080px;
+    background-color: black;
+}
+
+.mac {
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    left: 50px;
+}
+.button1 {
+    background: dimgrey;
+    border: 2px black; 
+    border-radius: 20px; 
+    padding: 10px 20px; 
+    cursor: pointer;
+    font-size: 16px; 
+    text-align: center;
+    color: white; 
+    outline: none;
+    position: fixed;
+    left: 670px;
+    bottom: 650px;
+}
+
+.button1:hover {
+    background-color: white;
+    color: black;
+}
+
+.button2 {
+    background: dimgrey;
+    border: 2px black; 
+    border-radius: 20px; 
+    padding: 10px 20px; 
+    cursor: pointer;
+    font-size: 16px; 
+    text-align: center;
+    color: white; 
+    outline: none;
+    position: fixed;
+    left: 670px;
+    bottom: 580px;
+}
+
+.button2:hover {
+    background-color: white;
+    color: black;
+}
+
+.button3 {
+    background: dimgrey;
+    border: 2px black; 
+    border-radius: 20px; 
+    padding: 10px 20px; 
+    cursor: pointer;
+    font-size: 16px; 
+    text-align: center;
+    color: white; 
+    outline: none;
+    position: fixed;
+    left: 670px;
+    bottom: 450px;
+}
+
+.button3:hover {
+    background-color: white;
+    color: black;
+}
+
+.button4 {
+    background: dimgrey;
+    border: 2px black; 
+    border-radius: 20px; 
+    padding: 10px 20px; 
+    cursor: pointer;
+    font-size: 16px; 
+    text-align: center;
+    color: white; 
+    outline: none;
+    position: fixed;
+    left: 675px;
+    bottom: 100px;
+}
+
+.button4:hover {
+    background-color: white;
+    color: black;
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+    left: 0px;
+}
+
+
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 10px; 
+}
+
+.image-item {
+    overflow: hidden; 
+}
+
+.image-item img {
+    width: 100%; 
+    height: 100%;
+    
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 1000px;
+    position: relative;
+    bottom: 0px;
+    left: 220px;
+}
+
+.next-button {
+    background: dimgrey;
+    border: 2px black; 
+    border-radius: 20px; 
+    padding: 10px 20px; 
+    cursor: pointer;
+    font-size: 16px; 
+    color: white; 
+    outline: none;
+    position: fixed;
+    left: 680px;
+    bottom: -30px;
+    position: relative;
+}
+
+.next-button:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+
